@@ -1,0 +1,14 @@
+Cache ID: 0
+Stored Videos:
+Video ID: 3 Size 30MB
+Video ID: 1 Size 50MB
+Available space left: 20MB
+
+Cache ID: 1
+Stored Videos:
+Available space left: 100MB
+
+Cache ID: 2
+Stored Videos:
+Available space left: 100MB
+
